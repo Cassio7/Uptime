@@ -5,6 +5,8 @@ repo: Uptime # The name of this repository
 sites:
   - name: Portfolio
     url: https://alessiocassieri.netlify.app
+  - name: Store Gualdo Cattaneo
+    url: https://storegualdocattaneo.it
 
 
 status-website:
