@@ -7,7 +7,8 @@ sites:
     url: https://alessiocassieri.netlify.app
 #  - name: Store Gualdo Cattaneo
 #    url: https://storegualdocattaneo.it
-
+  - name: Portfolio v1
+    url: https://alessiocassieri1.netlify.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
