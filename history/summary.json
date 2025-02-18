@@ -4,18 +4,20 @@
     "url": "https://alessiocassieri.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/alessiocassieri.netlify.app.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 172,
-    "timeDay": 86,
-    "timeWeek": 113,
-    "timeMonth": 156,
+    "timeDay": 149,
+    "timeWeek": 125,
+    "timeMonth": 158,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-18": 0
+    }
   },
   {
     "name": "Portfolio v1",
